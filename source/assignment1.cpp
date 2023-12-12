@@ -6,7 +6,7 @@
 #include <array>
 #include <memory>
 #include <iostream>
-class A {};
+
 // Lambda funktsioonid
 Homework::Tasks Homework::assignment1()
 {
